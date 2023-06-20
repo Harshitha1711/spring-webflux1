@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-reactive-mongo-DB/spring-reactive-mongo-DB.iml" filepath="$PROJECT_DIR$/spring-reactive-mongo-DB/spring-reactive-mongo-DB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-webflux-essentials/spring-webflux-essentials.iml" filepath="$PROJECT_DIR$/../spring-webflux-essentials/spring-webflux-essentials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springreactive_monoDB/springreactive_monoDB/springreactive_monoDB.iml" filepath="$PROJECT_DIR$/../springreactive_monoDB/springreactive_monoDB/springreactive_monoDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webfluxwithrouter/webfluxwithrouter/webfluxwithrouter.iml" filepath="$PROJECT_DIR$/../webfluxwithrouter/webfluxwithrouter/webfluxwithrouter.iml" />
+    </modules>
+  </component>
+</project>
